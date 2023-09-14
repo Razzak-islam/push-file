@@ -6,7 +6,7 @@
 </ul>
 
 <h1>Discuss how you managed the state in your assignment project.</h1>
-<h5>I have managed the states in this assignment as follows:<h5>
+<p>I have managed the states in this assignment as follows:<p>
 <ol>
   <li>Fake Data State: I have stored fake data states to simulate data, so that I can work with this data later.</li>
   <li>Total Credit State: To fetch the total credits, I've used a state. In an event handler, when clicked, it sets the total credits to that state.</li>
