@@ -1,4 +1,4 @@
-<h2>project overviow</h2>
+<h2>Add at least 3 Project features</h2>
 <ul>
   <li>couse quri</li>
   <li>couse quri</li>
