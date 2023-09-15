@@ -1,4 +1,4 @@
-<h1>Add at least 3 Project features</h1>
+<h1>Add at least 3  Project features</h1>
 <ul>
   <li>In our course, we have various programming languages such as C, Python, databases (MySQL), data structures, cloud computing, problem-solving, and algorithms</li>
   <li>The maximum credit hours for our course are twenty (20), meaning you can take this course for up to twenty credits.</li>
